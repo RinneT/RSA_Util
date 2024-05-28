@@ -1,0 +1,20 @@
+[
+	{
+		"firstName": "Max",
+		"lastName": "Mustermann",
+		"mobilePhone": "+49 ",
+		"eMail": "max@muster.mann",
+		"canDrive": true,
+		"numberOfPassengers": 3,
+		"food": "Melon"
+	},
+	{
+		"firstName": "Erika",
+		"lastName": "Musterfrau",
+		"mobilePhone": "+49 55577778888",
+		"eMail": "erika@muster.frau",
+		"canDrive": false,
+		"numberOfPassengers": null,
+		"food": "Salad"
+	}
+]
